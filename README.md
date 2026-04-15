@@ -160,6 +160,3 @@ pip install langchain-core langchain-openai python-dotenv
 - **langchain-core** - LangChain core library for building LLM chains
 - **langchain-openai** - OpenAI integration for LangChain
 - **python-dotenv** - Environment variable management
-
-## License
-This project is for educational purposes.
