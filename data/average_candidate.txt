@@ -1,0 +1,23 @@
+Name: Michael Chen
+Experience: 2 years as Data Analyst
+
+EDUCATION:
+- Bachelor's in Information Technology
+
+TECHNICAL SKILLS:
+- Basic Python programming
+- SQL for data querying
+- Some knowledge of statistics
+- Excel for data analysis
+
+TOOLS:
+- Jupyter Notebook
+- Basic Git usage
+
+PROJECTS:
+- Built simple prediction models using scikit-learn
+- Created dashboards in Excel
+- Automated data cleaning scripts
+
+CERTIFICATIONS:
+- Google Data Analytics Certificate

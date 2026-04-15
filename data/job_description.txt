@@ -1,0 +1,26 @@
+JOB TITLE: Data Scientist
+
+REQUIRED SKILLS:
+- Python programming
+- SQL for data querying
+- Machine Learning algorithms
+- Statistical analysis
+- Data visualization (Tableau/Power BI)
+
+PREFERRED SKILLS:
+- Deep Learning (TensorFlow/PyTorch)
+- Cloud platforms (AWS/GCP)
+- Big Data tools (Spark)
+
+EXPERIENCE REQUIRED:
+- Minimum 3 years of experience in data science role
+- Experience with end-to-end ML projects
+
+EDUCATION:
+- Bachelor's degree in Computer Science, Statistics, or related field
+- Master's degree preferred
+
+TOOLS:
+- Jupyter/VS Code
+- Git
+- Docker (preferred)

@@ -1,0 +1,30 @@
+Name: Sarah Johnson
+Experience: 5 years as Data Scientist
+
+EDUCATION:
+- Master's in Data Science, Stanford University
+- Bachelor's in Computer Science, MIT
+
+TECHNICAL SKILLS:
+- Python (expert)
+- SQL (advanced)
+- Machine Learning algorithms (Regression, Classification, Clustering)
+- Deep Learning with TensorFlow and PyTorch
+- Statistical analysis and A/B testing
+- Data visualization with Tableau and Power BI
+
+TOOLS & PLATFORMS:
+- Jupyter Notebook, VS Code
+- Git for version control
+- Docker containerization
+- AWS cloud platform
+- Apache Spark for big data
+
+ACHIEVEMENTS:
+- Led 3 end-to-end ML projects from concept to deployment
+- Improved model accuracy by 30% through feature engineering
+- Mentored junior data scientists
+
+CERTIFICATIONS:
+- AWS Certified Machine Learning
+- TensorFlow Developer Certificate
